@@ -1,43 +1,82 @@
-# 안녕하세요, 임베디드 개발자 vikira12입니다. 👋
+<div align="center">
 
-하드웨어와 소프트웨어의 경계에서 동작하는 제품을 만듭니다.  
-펌웨어 개발을 중심으로 하드웨어 제어, FPGA 설계 및 시스템 통합을 다루고 있습니다.
+# 👋 안녕하세요, 임베디드 개발자 vikira12입니다
 
-## 🔧 What I Do
+### Firmware · Hardware · FPGA · Edge AI
 
-- 임베디드 시스템 및 펌웨어 개발
-- MCU 기반 주변장치 제어 및 통신 구현
-- 하드웨어 연동과 디버깅
-- FPGA 기반 디지털 로직 설계 및 검증
-- 요구사항부터 구현·테스트까지의 시스템 통합
+하드웨어와 소프트웨어의 경계에서 동작하는 시스템을 만듭니다.  
+MCU 펌웨어, FPGA 디지털 로직, Jetson 기반 엣지 시스템 통합을 다룹니다.
 
-## 🛠 Tech Focus
+</div>
 
-| 분야 | 기술 |
-| --- | --- |
-| Firmware | Embedded C/C++, MCU, Peripheral Control, Communication |
-| Hardware | Schematic Review, Board Bring-up, Debugging |
-| FPGA | Verilog / VHDL, Digital Logic Design, Verification |
-| Tools | Git, Oscilloscope, Logic Analyzer, Debugger |
+<br>
 
-> 실제 사용 기술에 맞게 MCU 종류, RTOS, 통신 규격(UART, SPI, I²C, CAN 등), FPGA 툴을 추가해 보완할 예정입니다.
+## 🧑‍💻 About Me
 
-## 📂 Projects
+- 🔧 **임베디드 시스템 및 펌웨어 개발**
+- ⚡ **MCU 제어, 센서·주변장치 연동, 통신 구현**
+- 🧩 **FPGA 기반 디지털 로직 설계 및 검증**
+- 🔍 **보드 Bring-up, 하드웨어 연동 및 디버깅**
+- 🤖 **Jetson 기반 Edge AI·시스템 통합**
 
-진행한 프로젝트는 소속 Organization에서 관리하고 있습니다.  
-각 저장소에서는 문제 정의, 시스템 구성, 담당 역할, 사용 기술, 결과를 중심으로 기록합니다.
+<br>
 
-- Firmware development
-- Hardware bring-up and integration
-- FPGA logic design and verification
+## 🛠 Tech Stack
 
-## 🌱 Interests
+### Platforms
 
-- 안정적이고 재현 가능한 임베디드 시스템
-- 하드웨어·펌웨어 공동 디버깅
-- 성능과 신뢰성을 고려한 디지털 설계
-- 제품 수준의 시스템 통합
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Jetson Orin Nano](https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Zynq](https://img.shields.io/badge/Zynq-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
-## 📫 Contact
+### Languages
 
-GitHub: [@vikira12](https://github.com/vikira12)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-6E4C13?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-6B4FBB?style=for-the-badge)
+
+<br>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikira12&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/vikira12)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vikira12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikira12&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/vikira12)
+
+</div>
+
+<br>
+
+## 📂 Project Organizations
+
+프로젝트는 다음 Organization을 중심으로 관리하고 있습니다.
+
+- 🏢 [POSCO AEGIS](https://github.com/poscoAEGIS)
+- 🧸 [Team Bori](https://github.com/Team-Bori)
+- 🤖 [DSM BARN AI](https://github.com/DSM-BARN-AI)
+- 🌳 [Team Trie Project](https://github.com/team-trie-prj)
+- 🔗 [IN-STRING](https://github.com/IN-STRING)
+- 📖 [ReadMark](https://github.com/ReadMark)
+
+<br>
+
+## 🌱 Goal
+
+> 현장의 문제를 하드웨어와 소프트웨어 관점에서 함께 해결하는  
+> 신뢰성 있는 임베디드 시스템 개발자를 목표로 합니다.
+
+<br>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-vikira12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikira12)
+
+</div>
