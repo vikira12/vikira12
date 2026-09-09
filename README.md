@@ -104,6 +104,9 @@ MCU 펌웨어, FPGA 디지털 로직, Jetson 기반 엣지 시스템 통합을 �
 
 <br>
 
+----
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ## 🌱 Goal
 
 > 현장의 문제를 하드웨어와 소프트웨어 관점에서 함께 해결하는  
